@@ -1,0 +1,6 @@
+/* style.css for admin_dashboard_project */
+* { // stylesheet reset
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
