@@ -31,3 +31,9 @@ img {
   padding: 10px;
 }
 
+.navBar > div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border: 1px solid MediumVioletRed;
+}
