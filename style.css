@@ -15,6 +15,12 @@
   grid-template-rows: 1fr 5fr;
 }
 
+img {
+  width: 1.4em;
+  height: 1.4em;
+  filter: invert(1);
+}
+
 .navBar {
   background-color: #00aaff;
   color: white;
