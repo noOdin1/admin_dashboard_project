@@ -37,3 +37,8 @@ img {
   align-items: center;
   border: 1px solid MediumVioletRed;
 }
+
+.navBar > div > img {
+  margin: 2px 1.2em;
+}
+
