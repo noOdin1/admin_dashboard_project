@@ -48,3 +48,9 @@ img {
   border: 1px solid MediumVioletRed;
 }
 
+.content {
+  grid-column: 2/3;
+  grid-row: 2/6;
+  background-color: #e7e7e7;
+  border: 1px solid MediumVioletRed;
+}
