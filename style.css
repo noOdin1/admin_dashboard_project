@@ -42,3 +42,9 @@ img {
   margin: 2px 1.2em;
 }
 
+.topBar {
+  grid-column: 2/3;
+  grid-row: 1/2;
+  border: 1px solid MediumVioletRed;
+}
+
