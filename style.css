@@ -101,6 +101,10 @@ img {
   height: 2em;
 }
 
+.upper > p {
+  font-weight: 900;
+}
+
 .content {
   grid-row: 2/7;
 }
