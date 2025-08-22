@@ -105,6 +105,15 @@ img {
   font-weight: 900;
 }
 
+textarea {
+  height: 2em;
+  margin-right: 5em;
+  resize: none;
+  background-color: #e2e8f0;
+  border-radius: 0.8em;
+  border: none;
+}
+
 .content {
   grid-row: 2/7;
 }
