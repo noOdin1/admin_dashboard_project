@@ -145,6 +145,16 @@ textarea {
   font-weight: 900;
 }
 
+.lower > .button {
+  background-color: #1992d4;
+  text-align: center;
+  color: white;
+  font-weight: 900;
+  margin: 1em 0.5em;
+  margin-bottom: 0;
+  padding: 0.6em 0;
+  border-radius: 2em;
+}
 .content {
   grid-row: 2/7;
 }
