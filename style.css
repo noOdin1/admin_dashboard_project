@@ -45,6 +45,13 @@ img {
 }
 
 .topBar {
+.navBar > .titleBar > img {
+  width: 1.3em;
+  height: 1.3em;
+  margin-left: 0.7em;
+  margin-right: 0.5em;
+}
+
   grid-column: 2/3;
   grid-row: 1/2;
   border: 1px solid MediumVioletRed;
