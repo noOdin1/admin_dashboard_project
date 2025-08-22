@@ -96,6 +96,11 @@ img {
   height: 1.3em;
 }
 
+.upper > img.non-inverted {
+  width: 2em;
+  height: 2em;
+}
+
 .content {
   grid-row: 2/7;
 }
