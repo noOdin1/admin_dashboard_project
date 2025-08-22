@@ -44,7 +44,11 @@ img {
   margin: 2px 1em;
 }
 
-.topBar {
+.titleBar {
+  padding: 10px;
+  font-size: 1.3em;
+}
+
 .navBar > .titleBar > img {
   width: 1.3em;
   height: 1.3em;
