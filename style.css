@@ -19,6 +19,10 @@
 img {
   width: 1.2em;
   height: 1.2em;
+}
+
+.navBar > div > img {
+  margin: 2px 1em;
   filter: invert(1);
 }
 
@@ -38,10 +42,6 @@ img {
   align-items: center;
   margin-left: 0;
   padding-left: 0;
-}
-
-.navBar > div > img {
-  margin: 2px 1em;
 }
 
 .titleBar {
