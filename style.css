@@ -36,7 +36,8 @@ img {
   display: flex;
   flex-direction: row;
   align-items: center;
-  border: 1px solid MediumVioletRed;
+  margin-left: 0;
+  padding-left: 0;
 }
 
 .navBar > div > img {
