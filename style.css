@@ -61,7 +61,22 @@ img {
   margin-top: 2em;
 }
 
+.right {
   grid-column: 2/3;
+  grid-row: 1/6;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(6, 1fr);
+  background-image: linear-gradient(
+    white 1em,
+    white 16.8%,
+    #a7b9d2 0.2em,
+    #e2e8f0 17.8%,
+    transparent 0.1em,
+    transparent 100%
+  );
+}
+
   grid-row: 1/2;
   border: 1px solid MediumVioletRed;
 }
