@@ -91,6 +91,11 @@ img {
   justify-content: space-evenly;
 }
 
+.upper > img {
+  width: 1.3em;
+  height: 1.3em;
+}
+
 .content {
   grid-row: 2/7;
 }
