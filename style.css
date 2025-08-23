@@ -110,7 +110,6 @@ textarea {
   height: 2em;
   margin-right: 5em;
   resize: none;
-  /* text-align: center; */
   padding: 5px 5px; /* This will center the text in the input. */
   background-color: #e2e8f0;
   border-radius: 0.8em;
