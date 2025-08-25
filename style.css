@@ -216,3 +216,9 @@ p.rightside.title {
   box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.8);
 }
 
+.leftside.card > p.cardTitle {
+  font-size: 1.1rem;
+  font-weight: 900;
+  margin: 0.5em 0;
+}
+
