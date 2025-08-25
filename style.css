@@ -268,3 +268,7 @@ p.rightside.title {
   flex-direction: column;
 }
 
+.rightside.announcements {
+  font-size: 0.8em;
+}
+
