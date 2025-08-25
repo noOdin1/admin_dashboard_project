@@ -281,3 +281,9 @@ p.rightside.title {
   box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.8);
 }
 
+.rightside.subheading {
+  font-weight: 900;
+  font-size: 1rem;
+  margin: 0.2em 0;
+}
+
