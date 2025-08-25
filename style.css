@@ -222,3 +222,8 @@ p.rightside.title {
   margin: 0.5em 0;
 }
 
+.leftside.card > .card.icons {
+  text-align: right;
+  margin-bottom: 0px;
+}
+
