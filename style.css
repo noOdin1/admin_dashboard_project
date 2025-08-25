@@ -274,8 +274,8 @@ p.rightside.title {
   font-size: 0.8em;
 }
 
-.rightside.announcements,
-.trending.group {
+.rightside.announcements.group,
+.rightside.trending.group {
   margin-top: 1.2em;
   padding: 1.5em 2.8em;
   background-color: white;
