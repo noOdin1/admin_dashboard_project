@@ -188,3 +188,10 @@ textarea {
   height: 100%;
 }
 
+p.leftside.title,
+p.rightside.title {
+  margin: 0.2em 1.2em;
+  font-weight: 900;
+  font-size: 1.2em;
+}
+
