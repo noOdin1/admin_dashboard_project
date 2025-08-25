@@ -227,3 +227,8 @@ p.rightside.title {
   margin-bottom: 0px;
 }
 
+.card.icons > img {
+  height: 1.5em;
+  width: 1.5em;
+}
+
