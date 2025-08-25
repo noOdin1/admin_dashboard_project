@@ -272,3 +272,12 @@ p.rightside.title {
   font-size: 0.8em;
 }
 
+.rightside.announcements,
+.trending.group {
+  margin-top: 1.2em;
+  padding: 2em 3em;
+  background-color: white;
+  border-radius: 1em;
+  box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.8);
+}
+
