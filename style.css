@@ -261,3 +261,10 @@ p.rightside.title {
   grid-column: 2/3;
   grid-row: 7/10;
 }
+.content.rightside {
+  height: 100%;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+}
+
