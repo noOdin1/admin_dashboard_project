@@ -195,3 +195,10 @@ p.rightside.title {
   font-size: 1.2em;
 }
 
+.content.leftside {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(9, 1fr);
+}
+
